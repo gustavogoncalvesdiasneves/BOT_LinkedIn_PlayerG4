@@ -35,6 +35,7 @@
 - **[Executar](#executar)**<br/>
 - **[Novidades](#novidades)**<br/>
 - **[Chrome Driver Download](#chrome-driver-download)**<br/>
+- **[IMPORTANTE](#importante)**<br/>
 
 
 <hr/>
@@ -70,6 +71,8 @@ Para Executar é bem simples somente baixar o [Executavel][link-executavel] e ab
 **No Windows**
 
 GIF
+
+**No Windows é bem simples somente executar o executavel =D**
 
 **No Linux**
 
@@ -127,6 +130,16 @@ No meu caso baixaria o *ChromeDriver* da *Versão (105.0.5195.52)*
 
 [Link do Site Oficial do ChromeDriver][chrome-driver-link]
 
+<br/><br/>
+
+## IMPORTANTE
+
+**Mensagem Personalizada**
+
+DISPONIBILIZEI UM ARQUIVO [len.py][link-len-py] para medir os caracteres da sua Mensagem
+(Como experiencia propria recomendo deixar de 300 Palavras 50 para o Nome da Pessoa que o BOT vai colocar)
+
+**OBS: Vou fazer uma interface Grafica em Breve para esse arquivo len.py :)**
 
 <br/><br/>
 
